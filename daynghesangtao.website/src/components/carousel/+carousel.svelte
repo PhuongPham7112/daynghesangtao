@@ -1,4 +1,12 @@
-
+<script>
+    import { onMount } from 'svelte';
+    import { initFlowbite } from 'flowbite'
+  
+    onMount(() => {
+      initFlowbite();
+    });
+  </script>
+  
 
 <div id="default-carousel" class="relative w-full" data-carousel="slide">
     <!-- Carousel wrapper -->
