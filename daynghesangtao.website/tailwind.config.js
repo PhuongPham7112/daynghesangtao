@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: ["./src/**/*.{html,js,svelte,ts}"],
+  content: ["./src/**/*.{html,js,svelte,ts}", "./node_modules/flowbite/**/*.js"],
   theme: {
     extend: {
     },
@@ -15,6 +15,8 @@ export default {
       "zincGray": "#8B8B8B",
     }
   },
-  plugins: [],
+  plugins: [
+    require('flowbite/plugin')
+  ],
 }
 
