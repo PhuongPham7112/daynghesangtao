@@ -2,23 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-    font-family: "BT-Beau-Sans";
-    src: local("../static/fonts/BT-Beau-Sans/BT-BeauSans-Regular.ttf") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-  }
+@font-face { 
+  font-family: "BT-Beau-Sans";
+  src: url("/fonts/BT Beau Sans/BT-BeauSans-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
-@font-face {
-    font-family: "BT-Beau-Sans";
-    src: local("../static/fonts/BT-Beau-Sans/BT-BeauSans-Bold.ttf") format("truetype");
-    font-weight: bold;
-    font-style: normal;
-  }
+@font-face { 
+  font-family: "BT-Beau-Sans";
+  src: url("/fonts/BT Beau Sans/BT-BeauSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
 
-@font-face {
-    font-family: "BT-Beau-Sans";
-    src: local("../static/fonts/BT-Beau-Sans/BT-BeauSans-Medium.ttf") format("truetype");
-    font-weight: medium;
-    font-style: normal;
-  }
+h1 {
+  color: #6e6e6e;
+  font-weight: bold;
+  font-size: 48px;
+}
