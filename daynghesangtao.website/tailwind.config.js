@@ -12,6 +12,7 @@ export default {
       "brightBlue": "#1378C2",
       "lightBlue": "#B1DEFF",
       "white": "#FFFFFF",
+      "zincGray": "#8B8B8B",
     }
   },
   plugins: [],

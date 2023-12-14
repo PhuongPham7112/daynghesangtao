@@ -2,6 +2,8 @@
     import Headbar from "../components/headbar/+headbar.svelte";
     import Button from "../components/button/+button.svelte";
     import Footer from "../components/footer/+footer.svelte";
+    import Card from "../components/card/+card.svelte";
+    import Carousel from "../components/carousel/+carousel.svelte";
 </script>
 
 <div class="bg-cover bg-center p-5 relative" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/assets/home-page-img.png'); height: 100vh;">
@@ -12,4 +14,18 @@
         <Button buttonText="Đăng ký" onClick={()=>console.log("Clicked")} />
     </div>
 </div>
+
+<div>
+    <h2 class="text-deepBlue">Khóa học dạy nghề</h2>
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div class="p-4 border"><Card cardTitle="Kế toán" cardImage="assets/rectangle-3.png"/></div>
+        <div class="p-4 border"><Card cardTitle="Tài chính" cardImage="assets/rectangle-4.png"/></div>
+    </div>
+</div>
+
+<div>
+    <h2 class="text-deepBlue">Ảnh học viên</h2>
+    <Carousel />
+</div>
+
 <Footer />
