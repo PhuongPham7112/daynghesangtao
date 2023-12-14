@@ -18,8 +18,21 @@
   font-display: swap;
 }
 
+@layer base {
+  body {
+    color: theme('colors.white');
+  }
+}
+
 h1 {
-  color: #6e6e6e;
   font-weight: bold;
   font-size: 48px;
+}
+
+button {
+  background-color: theme('colors.deepBlue');
+}
+
+a:hover {
+  color: theme('colors.lightBlue');
 }

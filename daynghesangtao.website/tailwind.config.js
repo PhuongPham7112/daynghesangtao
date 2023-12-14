@@ -7,6 +7,11 @@ export default {
     fontFamily: {
       "bt-beausans": ["BT-Beau-Sans", "sans-serif"],
     },
+    colors: {
+      "deepBlue": "#10619C",
+      "white": "#FFFFFF",
+      "lightBlue": "#B1DEFF",
+    }
   },
   plugins: [],
 }
