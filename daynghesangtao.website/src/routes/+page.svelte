@@ -1,2 +1,8 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Dạy Nghề Sáng Tạo</h1>
+<a href="/about">Về chúng tôi</a>
+
+<style lang="postcss">
+    :global(h1) {
+        color: #065f46;
+    }
+</style>
