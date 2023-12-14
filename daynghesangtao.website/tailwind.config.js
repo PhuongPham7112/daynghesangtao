@@ -9,8 +9,9 @@ export default {
     },
     colors: {
       "deepBlue": "#10619C",
-      "white": "#FFFFFF",
+      "brightBlue": "#1378C2",
       "lightBlue": "#B1DEFF",
+      "white": "#FFFFFF",
     }
   },
   plugins: [],
