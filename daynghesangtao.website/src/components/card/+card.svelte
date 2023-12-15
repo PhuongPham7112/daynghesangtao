@@ -6,14 +6,14 @@
 
 <div class="relative w-full h-[300px] text-deepBlue shadow-md rounded-md flex items-center p-8">
     <div class="flex flex-col space-y-5">
-        <h3 class="text-brightBlue">{cardTitle}</h3>
+        <a href="/courses"><h3 class="text-brightBlue">{cardTitle}</h3></a>
         <p class="w-2/3 text-zincGray">
             {cardDescription}
         </p>
     </div>
     <img
       class="w-full h-[200px] object-cover"
-      alt="Rectangle"
+      alt=" "
       src={cardImage}
     />
 </div>
