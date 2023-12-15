@@ -1,6 +1,5 @@
 <script>
     import Headbar from "../../components/headbar/+headbar.svelte";
-    import Footer from "../../components/footer/+footer.svelte";
 </script>
 
 <div class="bg-cover bg-center p-5 relative flex flex-col items-center" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/assets/about-us-img.webp'); height: 100vh;">
@@ -9,5 +8,3 @@
         <h1 class="font-bt-beausans">Liên hệ</h1>
     </div>
 </div>
-
-<Footer />

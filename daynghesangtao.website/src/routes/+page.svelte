@@ -1,7 +1,6 @@
 <script>
     import Headbar from "../components/headbar/+headbar.svelte";
     import Button from "../components/button/+button.svelte";
-    import Footer from "../components/footer/+footer.svelte";
     import Card from "../components/card/+card.svelte";
     import Carousel from "../components/carousel/+carousel.svelte";
 </script>
@@ -27,5 +26,3 @@
     <h2 class="text-deepBlue">Ảnh học viên</h2>
     <Carousel />
 </div>
-
-<Footer />
