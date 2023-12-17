@@ -7,6 +7,6 @@
     }
 </script>
 
-<button class="text-white font-bold py-2 px-4 rounded" on:click={handleClick}>
-    {buttonText}
+<button class="text-white font-bold py-2 px-5 rounded" on:click={handleClick}>
+    <a href="/contact"><h4>{buttonText}</h4></a>
 </button>
