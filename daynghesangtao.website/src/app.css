@@ -24,6 +24,12 @@
   }
 }
 
+@layer utilities {
+  .shadow-custom {
+    box-shadow: 0 4px 6px -1px rgb(0, 94, 162), 0 2px 4px -1px rgba(177, 222, 255, 0.06);
+  }
+}
+
 h1 {
   font-weight: bold;
   font-size: 48px;
