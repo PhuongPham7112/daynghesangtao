@@ -34,6 +34,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sanity/client": "^6.10.0",
 		"flowbite": "^2.2.0",
 		"svelte-routing": "^2.10.0"
 	}
