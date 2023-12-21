@@ -3,7 +3,7 @@
 	import type { Image, ImageAsset } from '@sanity/types';
     export let cardImage : ImageAsset | string | undefined;
     export let cardTitle = "Khóa học";
-    export let cardDescription = "Miêu tả khóa học: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.";
+    export let cardDescription = "Miêu tả khóa học";
     export let cardLink = "/courses";
 </script>
 

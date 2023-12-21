@@ -3,7 +3,7 @@
     import Button from "../components/button/+button.svelte";
     import Card from "../components/card/+card.svelte";
     import Carousel from "../components/carousel/+carousel.svelte";
-    import { navigate } from 'svelte-routing';
+    import CourseList from "../components/courseList/+courseList.svelte";
 </script>
 
 <div class="bg-cover bg-center p-5 relative" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/assets/home-page-img.webp'); height: 100vh;">
@@ -15,13 +15,7 @@
     </div>
 </div>
 
-<div class="p-5">
-    <h2 class="text-deepBlue">Khóa học dạy nghề</h2>
-    <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
-        <div class="p-4"><Card cardLink={"/courses/ke-toan"} cardTitle="Kế toán" cardImage="assets/rectangle-3.png"/></div>
-        <div class="p-4"><Card cardLink={"/courses/tai-chinh"} cardTitle="Đầu tư tài chính" cardImage="assets/rectangle-4.png"/></div>
-    </div>
-</div>
+<CourseList />
 
 <div class="p-5">
     <h2 class="text-deepBlue">Ảnh học viên</h2>
