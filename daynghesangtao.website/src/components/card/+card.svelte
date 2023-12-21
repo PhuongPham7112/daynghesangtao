@@ -1,7 +1,9 @@
-<script>
+<script lang="ts">
+    import { urlFor } from '$lib/image';
+	import type { Image, ImageAsset } from '@sanity/types';
+    export let cardImage : ImageAsset | undefined;
     export let cardTitle = "Khóa học";
     export let cardDescription = "Miêu tả khóa học: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.";
-    export let cardImage = "assets/rectangle-3.png";
     export let cardLink = "/courses";
 </script>
 
@@ -12,9 +14,11 @@
             {cardDescription}
         </p>
     </div>
+    {#if cardImage}
     <img
       class="w-full h-[200px] object-cover"
       alt=" "
-      src={cardImage}
+      src={urlFor(cardImage).url()}
     />
+    {/if}
 </div>

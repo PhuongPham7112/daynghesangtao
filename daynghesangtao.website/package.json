@@ -34,8 +34,13 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@portabletext/svelte": "^2.1.5",
+		"@portabletext/types": "^2.0.8",
 		"@sanity/client": "^6.10.0",
+		"@sanity/image-url": "^1.0.2",
+		"@sanity/types": "^3.23.1",
 		"flowbite": "^2.2.0",
+		"groq": "^3.23.1",
 		"svelte-routing": "^2.10.0"
 	}
 }
