@@ -4,6 +4,8 @@ import { client } from './sanity';
 
 const builder = imageUrlBuilder(client);
 
-export function urlFor(source: Image) {
-	return builder.image(source);
+export function urlFor(source: Image | string | undefined) {
+	if (!source) return builder.image('').url();
+	if (typeof source === 'string') return source;
+	return builder.image(source).url();
 }

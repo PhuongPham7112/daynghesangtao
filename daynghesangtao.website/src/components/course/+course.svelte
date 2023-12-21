@@ -1,5 +1,4 @@
 <!-- CourseDetail.svelte -->
-
 <script>
     export let courseDetails = new Map();
     export let courseTitle = "Course Title";

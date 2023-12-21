@@ -25,6 +25,7 @@ export async function _getPost(slug: string): Promise<Post> {
 export interface Post {
 	_type: 'post';
 	_createdAt: string;
+	author: string;
 	title?: string;
 	slug: Slug;
 	excerpt?: string;
