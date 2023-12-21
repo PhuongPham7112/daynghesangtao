@@ -9,7 +9,7 @@
                 <li><a href="/about">Giới thiệu</a></li>
                 <li><a href="/courses">Khóa học</a></li>
                 <li><a href="/blog">Bài viết</a></li>
-                <li><a href="/contact">Liên hệ</a></li>
+                <li><a href="https://forms.gle/wD8TfsjesNqdebvf7">Liên hệ</a></li>
             </ul>
         </div>
     </div>
