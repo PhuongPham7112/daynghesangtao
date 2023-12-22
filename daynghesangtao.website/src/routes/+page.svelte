@@ -6,7 +6,7 @@
     import CourseList from "../components/courseList/+courseList.svelte";
 </script>
 
-<div class="bg-cover bg-center p-5 relative" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('/assets/home-page-img.webp'); height: 100vh;">
+<div class="bg-cover bg-center p-5 relative" style="background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.75)), url('/assets/home-page-img.webp'); height: 100vh;">
     <Headbar />
     <div class="w-1/2 flex-col absolute top-1/2 space-y-5 px-5">
         <h1>Dạy Nghề Sáng Tạo</h1>
