@@ -2,10 +2,11 @@ import { createClient } from "@sanity/client";
 import type { ImageAsset, Slug } from '@sanity/types';
 import type { PortableTextBlock } from '@portabletext/types';
 import groq from 'groq';
+import { PUBLIC_SANITY_DATASET, PUBLIC_SANITY_PROJECT_ID } from '$env/static/public';
 
 export const client = createClient({
-    projectId: "ijjsarhl",
-    dataset: "production",
+    projectId: PUBLIC_SANITY_PROJECT_ID,
+    dataset: PUBLIC_SANITY_DATASET,
     apiVersion: "2023-12-18",
     useCdn: false
 })
