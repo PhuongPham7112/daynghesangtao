@@ -10,7 +10,7 @@
     <Headbar />
     <div class="w-1/2 flex-col absolute top-1/2 space-y-5 px-5">
         <h1>Dạy Nghề Sáng Tạo</h1>
-        <p>Với đội ngũ chuyên gia Tài chính Kế toán giàu kinh nghiệm có đầy đủ cơ sở vật chất sẽ là nơi thích hợp để các bạn theo học và thực hiện mơ ước của mình. Kết thúc khóa học các bạn sẽ là người tự tin, bản lĩnh bước vào nghề với niềm tin tất thắng.</p>
+        <p>Trung tâm với đội ngũ chuyên gia đào tạo giàu kinh nghiệm, có trách nhiệm, tâm huyết với nghề sẽ là nơi thích hợp để các bạn theo học và thực hiện mơ ước của mình một cách nhanh nhất.</p>
         <Button buttonText="Đăng ký"/>
     </div>
 </div>
