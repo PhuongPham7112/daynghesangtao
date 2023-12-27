@@ -8,7 +8,7 @@
                 <li><a href="/">Trang chủ</a></li>
                 <li><a href="/about">Giới thiệu</a></li>
                 <li><a href="/courses">Khóa học</a></li>
-                <li><a href="/blog">Bài viết</a></li>
+                <li><a href="/blog">Kinh Nghiệm</a></li>
                 <li><a href="https://forms.gle/wD8TfsjesNqdebvf7">Liên hệ</a></li>
             </ul>
         </div>
