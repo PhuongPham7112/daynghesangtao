@@ -1,8 +1,14 @@
+<script>
+    function redirectToHomePage() {
+      window.location.href = '/';
+    }
+  </script>
+
 <div class="w-full">
     <div class="flex justify-between items-center">
-        <div class="headbar-left">
+        <button class="bg-transparent" on:click={redirectToHomePage}>
             <img src="/assets/logo.png" alt="logo" class="w-10 h-10"/>
-        </div>
+        </button>
         <div class="header-right">
             <ul class="flex justify-around items-center space-x-10">
                 <li><a href="/"><p>Trang chủ</p></a></li>
