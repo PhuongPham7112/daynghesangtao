@@ -10,7 +10,7 @@
     <Headbar />
     <div class="w-1/2 flex-col absolute top-1/2 space-y-5 px-5">
         <h1>Dạy Nghề Sáng Tạo</h1>
-        <p class="text-2xl">Trung tâm với đội ngũ chuyên gia đào tạo giàu kinh nghiệm, có trách nhiệm, tâm huyết với nghề sẽ là nơi thích hợp để các bạn theo học và thực hiện mơ ước của mình một cách nhanh nhất.</p>
+        <p class="text-xl">Trung tâm với đội ngũ chuyên gia đào tạo giàu kinh nghiệm, có trách nhiệm, tâm huyết với nghề sẽ là nơi thích hợp để các bạn theo học và thực hiện mơ ước của mình một cách nhanh nhất.</p>
         <Button buttonText="Đăng ký"/>
     </div>
 </div>

@@ -9,7 +9,7 @@
 	<Headbar />
 	<div class="w-1/2 flex-col absolute top-1/2 space-y-5 flex flex-col items-center">
 		<h1 class="font-bt-beausans">Chúng tôi là ai?</h1>
-		<p class="font-bt-beausans text-lg">
+		<p class="font-bt-beausans text-xl">
 			Trung tâm dạy nghề Sáng Tạo được thành lập ngày 7 tháng 11 năm 2015 bởi một nhóm các chuyên
 			gia Tài chính Kế toán giàu kinh nghiệm.
 		</p>
