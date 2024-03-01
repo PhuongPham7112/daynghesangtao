@@ -29,6 +29,7 @@
 				'	- Xây dựng phương án thi tuyển',
 				'5. Thử việc',
 				'	- Tìm hiểu tổ chức bộ máy của doanh nghiệp',
+				' 	- Tìm hiểu vị trí, chức năng, nhiệm vụ, quyền hạn được giao',
 				'	- Xây dựng quy trình xử lý công việc',
 				'	- Lập kế hoạch làm việc hàng tuần',
 				'	- Học quy tắc ứng xử trong doanh nghiệp'
