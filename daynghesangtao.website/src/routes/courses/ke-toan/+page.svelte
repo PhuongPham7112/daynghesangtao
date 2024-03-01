@@ -23,9 +23,15 @@
 				'   - Thuế giá trị gia tăng - Thuế thu nhập DN - Thuế thu nhập cá nhân',
 				'   - Thuế TTĐB - Luật quản lý thuế, Hóa đơn',
 				'   - Phần mềm kê khai thuế, nộp tờ khai, nộp thuế điện tử',
-				'4. Đồng hành cùng Học viên sau khóa học',
-				'   - Tìm việc',
-				'   - Thử việc'
+				'4. Tìm việc',
+				'   - Tìm kiếm cơ hội việc làm',
+				'   - Làm hồ sơ xin việc',
+				'	- Xây dựng phương án thi tuyển',
+				'5. Thử việc',
+				'	- Tìm hiểu tổ chức bộ máy của doanh nghiệp',
+				'	- Xây dựng quy trình xử lý công việc',
+				'	- Lập kế hoạch làm việc hàng tuần',
+				'	- Học quy tắc ứng xử trong doanh nghiệp'
 			]
 		],
 		['Thời gian', ['18 buổi, 3 giờ một buổi']],
