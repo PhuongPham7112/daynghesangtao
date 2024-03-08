@@ -23,16 +23,9 @@
 				'   - Thuế giá trị gia tăng - Thuế thu nhập DN - Thuế thu nhập cá nhân',
 				'   - Thuế TTĐB - Luật quản lý thuế, Hóa đơn',
 				'   - Phần mềm kê khai thuế, nộp tờ khai, nộp thuế điện tử',
-				'4. Tìm việc',
-				'   - Tìm kiếm cơ hội việc làm',
-				'   - Làm hồ sơ xin việc',
-				'	- Xây dựng phương án thi tuyển',
-				'5. Thử việc',
-				'	- Tìm hiểu tổ chức bộ máy của doanh nghiệp',
-				' 	- Tìm hiểu vị trí, chức năng, nhiệm vụ, quyền hạn được giao',
-				'	- Xây dựng quy trình xử lý công việc',
-				'	- Lập kế hoạch làm việc hàng tuần',
-				'	- Học quy tắc ứng xử trong doanh nghiệp'
+				'4. Đồng hành cùng học viên',
+				'   - Tìm việc: tìm kiếm cơ hội việc làm, làm hồ sơ xin viêc, xây dựng phương án thi tuyển.',
+				'	- Thử việc: tìm hiểu tổ chức bộ máy của doanh nghiệp, tìm hiểu vị trí, chức năng, nhiệm vụ, quyền hạn được giao, xây dựng quy trình xử lý công việc, lập kế hoạch làm việc hàng tuần, biết quy tắc ứng xử trong doanh nghiệp.'
 			]
 		],
 		['Thời gian', ['18 buổi, 3 giờ một buổi']],
