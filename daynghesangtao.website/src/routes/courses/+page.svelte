@@ -25,7 +25,7 @@
 				'   - Phần mềm kê khai thuế, nộp tờ khai, nộp thuế điện tử',
 				'4. Đồng hành cùng học viên',
 				'   - Tìm việc: tìm kiếm cơ hội việc làm, làm hồ sơ xin viêc, xây dựng phương án thi tuyển.',
-				'	- Thử việc: tìm hiểu tổ chức bộ máy của doanh nghiệp, tìm hiểu vị trí chức năng nhiệm vụ quyền hạn được giao, xây dựng quy trình xử lý công việc, lập kế hoạch làm việc hàng tuần, biết quy tắc ứng xử trong doanh nghiệp.'
+				'	- Thử việc: tìm hiểu tổ chức bộ máy của đơn vị, tìm hiểu vị trí chức năng nhiệm vụ quyền hạn được giao, xây dựng quy trình xử lý công việc, lập kế hoạch làm việc hàng tuần, biết quy tắc ứng xử trong doanh nghiệp.'
 			]
 		],
 		['Thời gian', ['18 buổi, 3 giờ một buổi']],
