@@ -7,7 +7,7 @@
     <div class="w-1/2 flex-col absolute top-1/2 space-y-5 flex flex-col items-center">
         <h1 class="font-bt-beausans">Khóa học</h1>
         <p class="font-bt-beausans text-xl">Chỉ đường dẫn lối vào nghề Kế toán-Kiểm toán</p>
-        <p class="font-bt-beausans text-xl">"Bạn dành cho tôi 2 tuần, Tôi trao cho Bạn 20 năm kinh nghiệm"</p>
+        <p class="font-bt-beausans text-xl">"Bạn dành cho Tôi 2 tuần, Tôi trao cho Bạn 20 năm kinh nghiệm"</p>
     </div>
 </div>
 
